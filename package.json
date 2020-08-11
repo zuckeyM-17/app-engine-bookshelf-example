@@ -1,0 +1,21 @@
+{
+  "name": "app-engine-bookshelf-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "12"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com.sub/zuckeyM-17/app-engine-bookshelf-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
